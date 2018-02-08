@@ -1,0 +1,361 @@
+                               Population 2010    Sq km  income per cap  \
+City                                                                      
+Philadelphia                           1500000   347.52        34000.00   
+Bandung, Indonesia                     2394873   167.00         5060.00   
+Birmingham, UK                         1073045   267.77        31572.00   
+San Francisco                           805813   124.00        49986.00   
+Georgetown (Penang), Malaysia           708127   305.77        11051.00   
+Vancouver, BC                           603502   114.97        43000.00   
+Denver, CO                              693000   401.00        31000.00   
+Houston, TX                            2300000   627.00        32000.00   
+Surabaya, Indonesia                    2765000   350.50         3058.08   
+Ipoh, Malaysia                          657892   643.00         5200.00   
+Pune, India                            3124458   243.84         2155.00   
+Kochi, India                            601574    94.88          865.00   
+Dubai, UAE                             2983248  4114.00        50000.00   
+Johannesburg, South Africa              957441   334.81         6447.00   
+Cape Town, South Africa                 433688   400.28         6242.00   
+Cracow, Poland                          766739   326.80         4487.00   
+Leeds, UK                               781700   551.70        35000.00   
+Manchester, UK                          541300   243.40        32400.00   
+Edinburgh, UK                           500000   264.00        37500.00   
+Naples, Italy                           975260   117.27        28749.00   
+Jerusalem                               856700   125.00         7487.00   
+Phoenix, AZ                            1615017  1343.00        43960.00   
+Seattle, WA                             704352   369.00        41584.00   
+Haikou, China                          2046189  2237.00         4130.00   
+Zhuhai, China                          1562530  1724.00         5650.00   
+Indianapolis                            855164   936.30        24498.00   
+Jacksonville, FL                        913010  1935.87        25854.00   
+Barcelona, Spain                       1604555   101.40        99682.00   
+Liverpool, UK                           864122   111.80        27700.00   
+Washington DC                           681170   158.20        50567.00   
+El Paso, TX                             683080   665.10        20050.00   
+Busan, South Korea                     3527572   767.00        38602.00   
+Davao City, the Phillipines            1632991   293.78         3153.00   
+Milwaukee County, WI                    951448   249.00        43375.00   
+Laiwu, China                          13516000  2246.00         3915.00   
+Perth, AUS                             2000000  6349.21        65600.00   
+Strasbourg                              276170    78.26        36164.11   
+Montreal                               1704694   431.50        54183.62   
+Fez, Morocco                           1112072    93.20         2900.00   
+Warsaw, Poland                         1758000   517.00        39426.00   
+St. Petersburg, Russia                 5323300  1439.00        28944.00   
+
+                               avg prop val (residential)  \
+City                                                        
+Philadelphia                                       140000   
+Bandung, Indonesia                                  37473   
+Birmingham, UK                                     229520   
+San Francisco                                     1249000   
+Georgetown (Penang), Malaysia                      147764   
+Vancouver, BC                                     1000000   
+Denver, CO                                         480000   
+Houston, TX                                        339000   
+Surabaya, Indonesia                                 44970   
+Ipoh, Malaysia                                     101137   
+Pune, India                                        130000   
+Kochi, India                                        75000   
+Dubai, UAE                                         800000   
+Johannesburg, South Africa                         238000   
+Cape Town, South Africa                            200000   
+Cracow, Poland                                     200000   
+Leeds, UK                                          260000   
+Manchester, UK                                     220000   
+Edinburgh, UK                                      340000   
+Naples, Italy                                      173644   
+Jerusalem                                          523375   
+Phoenix, AZ                                        223700   
+Seattle, WA                                        718700   
+Haikou, China                                      205627   
+Zhuhai, China                                      360503   
+Indianapolis                                       142300   
+Jacksonville, FL                                   160700   
+Barcelona, Spain                                  1152750   
+Liverpool, UK                                      210000   
+Washington DC                                      545400   
+El Paso, TX                                        115400   
+Busan, South Korea                                  72800   
+Davao City, the Phillipines                         19470   
+Milwaukee County, WI                               117300   
+Laiwu, China                                        87488   
+Perth, AUS                                         555000   
+Strasbourg                                         350000   
+Montreal                                           270000   
+Fez, Morocco                                        32091   
+Warsaw, Poland                                     500000   
+St. Petersburg, Russia                             500000   
+
+                               avg rent val (1 bed apt) region  Cluster  
+City                                                                     
+Philadelphia                                    1400.00    ASM        6  
+Bandung, Indonesia                               128.00    SES        0  
+Birmingham, UK                                   884.40    WEU        6  
+San Francisco                                   3354.00    ASM        7  
+Georgetown (Penang), Malaysia                    267.00    SES        0  
+Vancouver, BC                                   1500.00    ASM        3  
+Denver, CO                                      1400.00    ASM        6  
+Houston, TX                                      893.00    ASM        1  
+Surabaya, Indonesia                              303.08    SES        0  
+Ipoh, Malaysia                                   126.42    SES        0  
+Pune, India                                      150.00    SOS        0  
+Kochi, India                                     130.00    SOS        0  
+Dubai, UAE                                      1442.00    WES        2  
+Johannesburg, South Africa                       505.00    SSF        0  
+Cape Town, South Africa                          675.00    SSF        0  
+Cracow, Poland                                   478.00    EAU        0  
+Leeds, UK                                       1400.00    WEU        6  
+Manchester, UK                                  1230.00    WEU        6  
+Edinburgh, UK                                   1980.00    WEU        6  
+Naples, Italy                                    767.00    WEU        6  
+Jerusalem                                       1150.00    WES        6  
+Phoenix, AZ                                      900.00    ASM        1  
+Seattle, WA                                     1814.00    ASM        3  
+Haikou, China                                    443.00    SOS        5  
+Zhuhai, China                                   2433.00    SOS        5  
+Indianapolis                                    1100.00    ASM        6  
+Jacksonville, FL                                1175.00    ASM        5  
+Barcelona, Spain                                1399.20    WEU        8  
+Liverpool, UK                                    742.00    WEU        6  
+Washington DC                                   2595.00    ASM        3  
+El Paso, TX                                      709.00    ASM        6  
+Busan, South Korea                               515.00    SOS        1  
+Davao City, the Phillipines                      231.00    SES        0  
+Milwaukee County, WI                            1100.00    ASM        6  
+Laiwu, China                                     217.00    SOS        4  
+Perth, AUS                                      2000.00    OCE        2  
+Strasbourg                                       750.00    WEU        6  
+Montreal                                         600.00    WES        1  
+Fez, Morocco                                     279.00    NOF        0  
+Warsaw, Poland                                   690.00    EAU        1  
+St. Petersburg, Russia                           620.00    EAU        1  
+
+Showing cities and clusters by region:
+
+
+
+
+Region: OCE
+
+<bound method IndexOpsMixin.value_counts of City
+Perth, AUS    2
+Name: Cluster, dtype: int32>
+
+
+
+
+Region: SSF
+
+<bound method IndexOpsMixin.value_counts of City
+Johannesburg, South Africa    0
+Cape Town, South Africa       0
+Name: Cluster, dtype: int32>
+
+
+
+
+Region: NOF
+
+<bound method IndexOpsMixin.value_counts of City
+Fez, Morocco     0
+Name: Cluster, dtype: int32>
+
+
+
+
+Region: ASM
+
+<bound method IndexOpsMixin.value_counts of City
+Philadelphia            6
+San Francisco           7
+Vancouver, BC           3
+Denver, CO              6
+Houston, TX             1
+Phoenix, AZ             1
+Seattle, WA             3
+Indianapolis            6
+Jacksonville, FL        5
+Washington DC           3
+El Paso, TX             6
+Milwaukee County, WI    6
+Name: Cluster, dtype: int32>
+
+
+
+
+Region: SES
+
+<bound method IndexOpsMixin.value_counts of City
+Bandung, Indonesia               0
+Georgetown (Penang), Malaysia    0
+Surabaya, Indonesia              0
+Ipoh, Malaysia                   0
+Davao City, the Phillipines      0
+Name: Cluster, dtype: int32>
+
+
+
+
+Region: SOS
+
+<bound method IndexOpsMixin.value_counts of City
+Pune, India           0
+Kochi, India          0
+Haikou, China         5
+Zhuhai, China         5
+Busan, South Korea    1
+Laiwu, China          4
+Name: Cluster, dtype: int32>
+
+
+
+
+Region: WES
+
+<bound method IndexOpsMixin.value_counts of City
+Dubai, UAE    2
+Jerusalem     6
+Montreal      1
+Name: Cluster, dtype: int32>
+
+
+
+
+Region: WEU
+
+<bound method IndexOpsMixin.value_counts of City
+Birmingham, UK      6
+Leeds, UK           6
+Manchester, UK      6
+Edinburgh, UK       6
+Naples, Italy       6
+Barcelona, Spain    8
+Liverpool, UK       6
+Strasbourg          6
+Name: Cluster, dtype: int32>
+
+
+
+
+Region: EAU
+
+<bound method IndexOpsMixin.value_counts of City
+Cracow, Poland            0
+Warsaw, Poland            1
+St. Petersburg, Russia    1
+Name: Cluster, dtype: int32>
+
+Showing cities and regions by cluster:
+
+
+
+
+Cluster: 0
+
+<bound method IndexOpsMixin.value_counts of City
+Bandung, Indonesia               SES
+Georgetown (Penang), Malaysia    SES
+Surabaya, Indonesia              SES
+Ipoh, Malaysia                   SES
+Pune, India                      SOS
+Kochi, India                     SOS
+Johannesburg, South Africa       SSF
+Cape Town, South Africa          SSF
+Cracow, Poland                   EAU
+Davao City, the Phillipines      SES
+Fez, Morocco                     NOF
+Name: region, dtype: object>
+
+
+
+
+Cluster: 1
+
+<bound method IndexOpsMixin.value_counts of City
+Houston, TX               ASM
+Phoenix, AZ               ASM
+Busan, South Korea        SOS
+Montreal                  WES
+Warsaw, Poland            EAU
+St. Petersburg, Russia    EAU
+Name: region, dtype: object>
+
+
+
+
+Cluster: 2
+
+<bound method IndexOpsMixin.value_counts of City
+Dubai, UAE    WES
+Perth, AUS    OCE
+Name: region, dtype: object>
+
+
+
+
+Cluster: 3
+
+<bound method IndexOpsMixin.value_counts of City
+Vancouver, BC    ASM
+Seattle, WA      ASM
+Washington DC    ASM
+Name: region, dtype: object>
+
+
+
+
+Cluster: 4
+
+<bound method IndexOpsMixin.value_counts of City
+Laiwu, China    SOS
+Name: region, dtype: object>
+
+
+
+
+Cluster: 5
+
+<bound method IndexOpsMixin.value_counts of City
+Haikou, China       SOS
+Zhuhai, China       SOS
+Jacksonville, FL    ASM
+Name: region, dtype: object>
+
+
+
+
+Cluster: 6
+
+<bound method IndexOpsMixin.value_counts of City
+Philadelphia            ASM
+Birmingham, UK          WEU
+Denver, CO              ASM
+Leeds, UK               WEU
+Manchester, UK          WEU
+Edinburgh, UK           WEU
+Naples, Italy           WEU
+Jerusalem               WES
+Indianapolis            ASM
+Liverpool, UK           WEU
+El Paso, TX             ASM
+Milwaukee County, WI    ASM
+Strasbourg              WEU
+Name: region, dtype: object>
+
+
+
+
+Cluster: 7
+
+<bound method IndexOpsMixin.value_counts of City
+San Francisco    ASM
+Name: region, dtype: object>
+
+
+
+
+Cluster: 8
+
+<bound method IndexOpsMixin.value_counts of City
+Barcelona, Spain    WEU
+Name: region, dtype: object>
