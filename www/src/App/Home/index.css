@@ -1,0 +1,26 @@
+.Text-quote {
+  font-family: 'Raleway', sans-serif;
+  font-size: xx-large;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.Map-header {
+  font-family: 'Raleway', 'sans-serif';
+  font-weight: bold;
+  color: darkRed;
+  font-size: 250%;
+}
+
+.Name-visible {
+  font-family: 'Neunito', sans-serif;
+  font-weight: bold;
+  visibility: visible;
+  color: darkRed;
+  font-size: 150%;
+}
+
+.Name-hidden {
+  visibility: hidden;
+}
+

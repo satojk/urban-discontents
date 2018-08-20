@@ -1,0 +1,56 @@
+.Curitiba {
+  text-align: center;
+}
+
+.Title-div {
+  width: 30vw;
+  height: 6vw;
+  float: left;
+}
+
+.Curitiba-title {
+  position: relative;
+  top: 2vw;
+  left: 5vw;
+  font-family: 'Alfa Slab One', cursive;
+  color: darkRed;
+  font-size: 4vw;
+}
+
+.Curitiba-text-div {
+  width: 50vw;
+  height: 10vw;
+  float: left;
+}
+
+.Curitiba-text {
+  position: relative;
+  top: 2.6vw;
+  font-family: 'Raleway', sans-serif;
+  text-align: justify;
+  float: left;
+  font-size: 0.9vw;
+}
+
+.Slide-div {
+  width: 100%;
+}
+
+.Slider {
+  margin-left: auto;
+  margin-right: auto;
+  transform: scale(1.6);
+}
+
+.BaseSlide {
+  width: 90%;
+  padding: 5%;
+}
+
+.Slide-year {
+  font-size: 200%;
+}
+
+.Main-text {
+  font-size: 100%;
+}

@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
+
+.Home {
+  text-align: center;
+}
+
+.vis-hidden {
+  visibility: hidden;
+}
+
+.Home-header-div {
+  position: relative;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  width: 100vw;
+  height: 20%;
+  height: 10vw;
+}
+
+.Home-header {
+  background-color: #000;
+  position: relative;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+}
+
+.Project-logo {
+  position: relative;
+  top: 10%;
+  left: 2%;
+  max-height: 80%;
+  max-width: auto;
+  float: left;
+}
+
+.Smaller-logo-div {
+  height: 100%;
+  width: 8%;
+  float: right;
+}
+
+.Smaller-logo {
+  position: relative;
+  right: 4%;
+  float: right;
+  clear: both;
+  height: 40%;
+  width: auto;
+  padding: 5%;
+}
+
+.Header-link {
+  position: relative;
+  top: 25%;
+  font-family: 'Nunito', sans-serif;
+  color: white;
+  font-size: 1.6vw;
+  text-decoration: none;
+  font-weight: bold;
+  float: right;
+  padding: 2%;
+}
+
+.Text-regular {
+  font-family: 'Raleway', sans-serif;
+  font-size: xx-large;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
