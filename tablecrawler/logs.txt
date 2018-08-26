@@ -1,0 +1,256 @@
+Working with country algeria
+Working with country angola
+Working with country benin
+Working with country botswana
+Working with country burkina-faso
+Working with country burundi
+Working with country cameroon
+Working with country cape-verde-cabo-verde
+Working with country central-african-republic
+'NoneType' object has no attribute 'find_all'
+Skipping...
+Working with country chad
+Working with country comoros
+Working with country congo-republic
+Working with country cote-divoire
+Working with country democratic-republic-of-congo
+'NoneType' object has no attribute 'find_all'
+Skipping...
+Working with country djibouti
+Working with country egypt
+Working with country equatorial-guinea
+'NoneType' object has no attribute 'select'
+Skipping...
+Working with country eritrea
+'NoneType' object has no attribute 'select'
+Skipping...
+Working with country ethiopia
+Working with country gabon
+'NoneType' object has no attribute 'select'
+Skipping...
+Working with country gambia
+Working with country ghana
+Working with country guinea-republic
+Working with country guinea-bissau
+'NoneType' object has no attribute 'select'
+Skipping...
+Working with country kenya
+Working with country lesotho
+Working with country liberia
+Working with country libya
+Working with country madagascar
+Working with country malawi
+Working with country mali
+Working with country mauritania
+Working with country mauritius
+Working with country mayotte-france
+Working with country morocco
+Working with country mozambique
+Working with country namibia
+Working with country niger
+Working with country nigeria
+Working with country reunion-france
+Working with country rwanda
+Working with country sao-tome-e-principe
+Working with country senegal
+Working with country seychelles
+Working with country sierra-leone
+Working with country somalia
+'NoneType' object has no attribute 'select'
+Skipping...
+Working with country south-africa
+Working with country south-sudan
+'NoneType' object has no attribute 'select'
+Skipping...
+Working with country sudan
+Working with country swaziland
+Working with country tanzania
+Working with country togo
+Working with country tunisia
+Working with country uganda
+Working with country zambia
+Working with country zimbabwe
+Working with country afghanistan
+Working with country bangladesh
+Working with country bhutan
+'NoneType' object has no attribute 'select'
+Skipping...
+Working with country brunei-darussalam
+Working with country cambodia
+Working with country china
+Working with country democratic-peoples-republic-north-korea
+'NoneType' object has no attribute 'select'
+Skipping...
+Working with country hong-kong-china
+Working with country india
+Working with country indonesia
+Working with country iran
+Working with country japan
+Working with country kazakhstan
+Working with country kyrgyzstan
+Working with country laos
+'NoneType' object has no attribute 'select'
+Skipping...
+Working with country macau-china
+Working with country malaysia
+Working with country maldives
+Working with country mongolia
+Working with country myanmar-formerly-burma
+Working with country nepal
+Working with country pakistan
+Working with country philippines
+Working with country republic-south-korea
+Working with country singapore
+Working with country sri-lanka
+Working with country taiwan
+Working with country tajikistan
+Working with country thailand
+Working with country turkmenistan
+Working with country uzbekistan
+'NoneType' object has no attribute 'find_all'
+Skipping...
+Working with country vietnam
+Working with country anguilla-united-kingdom
+Working with country antigua-and-barbuda
+Working with country aruba-netherlands
+Working with country bahamas
+Working with country barbados
+Working with country cayman-islands-united-kingdom
+Working with country cuba
+'NoneType' object has no attribute 'find_all'
+Skipping...
+Working with country curaçao-netherlands
+Working with country dominica
+Working with country dominican-republic
+Working with country grenada
+Working with country guadeloupe-france
+Working with country haiti
+Working with country jamaica
+Working with country martinique-france
+Working with country puerto-rico-usa
+Working with country sint-maarten-netherlands
+Working with country st-kitts-and-nevis
+Working with country st-lucia
+Working with country st-vincent-and-the-grenadines
+'NoneType' object has no attribute 'find_all'
+Skipping...
+Working with country trinidad-and-tobago
+Working with country virgin-islands-united-kingdom
+Working with country virgin-islands-usa
+Working with country belize
+Working with country costa-rica
+Working with country el-salvador
+Working with country guatemala
+Working with country honduras
+Working with country mexico
+Working with country nicaragua
+Working with country panama
+Working with country albania
+Working with country andorra
+Working with country armenia
+Working with country austria
+Working with country azerbaijan
+Working with country belarus
+Working with country belgium
+Working with country bosnia-and-herzegovina-federation
+Working with country bosnia-and-herzegovina-republika-srpska
+Working with country bulgaria
+Working with country croatia
+Working with country cyprus-republic
+Working with country czech-republic
+Working with country denmark
+Working with country estonia
+Working with country faeroe-islands-denmark
+Working with country finland
+Working with country france
+Working with country georgia
+Working with country germany
+Working with country gibraltar-united-kingdom
+Working with country greece
+Working with country guernsey-united-kingdom
+Working with country hungary
+Working with country iceland
+Working with country ireland-republic
+Working with country isle-man-united-kingdom
+Working with country italy
+Working with country jersey-united-kingdom
+Working with country kosovokosova
+Working with country latvia
+Working with country liechtenstein
+Working with country lithuania
+Working with country luxembourg
+Working with country macedonia-former-yugoslav-republic
+Working with country malta
+Working with country moldova-republic
+Working with country monaco
+Working with country montenegro
+Working with country netherlands
+Working with country norway
+Working with country poland
+Working with country portugal
+Working with country romania
+Working with country russian-federation
+Working with country san-marino
+'NoneType' object has no attribute 'select'
+Skipping...
+Working with country serbia
+Working with country slovakia
+Working with country slovenia
+Working with country spain
+Working with country sweden
+Working with country switzerland
+Working with country turkey
+Working with country ukraine
+Working with country united-kingdom-england-wales
+Working with country united-kingdom-northern-ireland
+Working with country united-kingdom-scotland
+Working with country bahrain
+Working with country iraq
+Working with country israel
+Working with country jordan
+Working with country kuwait
+Working with country lebanon
+Working with country oman
+Working with country qatar
+Working with country saudi-arabia
+Working with country syria
+Working with country united-arab-emirates
+Working with country yemen
+Working with country bermuda-united-kingdom
+Working with country canada
+Working with country greenland-denmark
+Working with country united-states-america
+Working with country american-samoa-usa
+Working with country australia
+Working with country cook-islands-new-zealand
+Working with country fiji
+Working with country french-polynesia-france
+Working with country guam-usa
+Working with country kiribati
+Working with country marshall-islands
+Working with country micronesia-federated-states
+Working with country nauru
+Working with country new-caledonia-france
+Working with country new-zealand
+Working with country northern-mariana-islands-usa
+Working with country palau
+Working with country papua-new-guinea
+Working with country samoa
+Working with country solomon-islands
+Working with country timor-leste-formerly-east-timor
+Working with country tonga
+Working with country tuvalu
+Working with country vanuatu
+Working with country argentina
+Working with country bolivia
+Working with country brazil
+Working with country chile
+Working with country colombia
+Working with country ecuador
+Working with country french-guianaguyane-france
+Working with country guyana
+Working with country paraguay
+Working with country peru
+Working with country suriname
+Working with country uruguay
+Working with country venezuela

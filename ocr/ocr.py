@@ -17,6 +17,7 @@ args = vars(ap.parse_args())
 
 # load the example image and convert it to grayscale
 image = cv2.imread(args["image"])
+print( image)
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
  
 # check to see if we should apply thresholding to preprocess the

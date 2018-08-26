@@ -12,12 +12,23 @@
   font-size: 250%;
 }
 
+.Dot {
+  font-size: 800%;
+  font-family: 'Times', sans-serif;
+  text-decoration: none;
+  float: left;
+  color: darkRed;
+}
+
 .Name-visible {
   font-family: 'Neunito', sans-serif;
   font-weight: bold;
   visibility: visible;
   color: darkRed;
   font-size: 150%;
+  position: absolute;
+  bottom: 40%;
+  left: 10%;
 }
 
 .Name-hidden {

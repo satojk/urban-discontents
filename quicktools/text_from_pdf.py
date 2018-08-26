@@ -1,9 +1,10 @@
 import textract
 import os
 import io
+import nltk
 from apiclient.http import MediaIoBaseDownload
 from apiclient.http import MediaFileUpload
-from googleapiclient.errors import HttpError
+from apiclient.errors import HttpError
 from apiclient.discovery import build
 from httplib2 import Http
 from oauth2client import file, client, tools
@@ -54,10 +55,10 @@ def files_from_folderid(folderid, service):
         return [(item["name"], item["id"]) for item in items]
 
 def create_output_folder(folderid, files, service):
-    if "Textified Documents"  in [x[0] for x in files]:
+    if "Sanitized Textified Documents"  in [x[0] for x in files]:
         return
     out_folder_metadata = {
-        "name": "Textified GOVREPORTs",
+        "name": "Sanitized Textified Documents",
         "parents": [folderid],
         "mimeType": "application/vnd.google-apps.folder"
     }
@@ -80,10 +81,12 @@ def download_file_from_id(fileid, filename, service):
 
 def upload_text_from_file(filename, output_folderid, service,
                           segment=0):
-    if "GOVREPORT" not in filename.split("_"):
-        return
     text = textract.process("workingdir/{}".format(filename))
-    text = text.decode("utf-8").split()
+    text = text.decode("utf-8")
+    words = set(nltk.corpus.words.words())
+    text = ' '.join(w for w in nltk.wordpunct_tokenize(text)
+                    if w.lower() in words)
+    text = text.split()
 
     if segment:
         text = [text[i:i+segment] for i in (
@@ -120,19 +123,20 @@ def remove_intermediate_working_folder():
 
 def main():
     service = service_setup()
-    folderid = folderid_from_foldername("toTextifyy", service)
+    folderid = folderid_from_foldername("totextifymacau", service)
     files = files_from_folderid(folderid, service)
     output_folder = create_output_folder(folderid, files, service)
     create_intermediate_working_folder()
     for filename, fileid in files:
-        if "GOVREPORT" in filename.split("_"):
-            print("Now processing file {}, id {}".format(filename, fileid))
-            try:
-                download_file_from_id(fileid, filename, service)
-                print("Uploading...")
-                upload_text_from_file(filename, output_folder["id"], service, segment=600)
-            except (HttpError, TypeError, UnicodeDecodeError):
-                print("Error. Ignoring...")
+        print("Now processing file {}, id {}".format(filename, fileid))
+        try:
+            download_file_from_id(fileid, filename, service)
+            print("Uploading...")
+            upload_text_from_file(filename, output_folder["id"], service, 
+              segment=1000)
+        except (HttpError, TypeError, UnicodeDecodeError,
+          textract.exceptions.ShellError):
+            print("Error. Ignoring...")
     print("Cleaning up...")
     remove_intermediate_working_folder()
     print("Done!")

@@ -1,56 +1,139 @@
 .Curitiba {
   text-align: center;
+  width: 100%;
+  height: 100vh;
 }
 
-.Title-div {
-  width: 30vw;
-  height: 6vw;
+.Intro-div {
+  width: 100%;
+  height: 20%;
+}
+
+.Curitiba-title-div {
+  width: 25%;
+  height: 100%;
   float: left;
 }
 
 .Curitiba-title {
   position: relative;
-  top: 2vw;
-  left: 5vw;
+  top: 10%;
+  left: 15%;
   font-family: 'Alfa Slab One', cursive;
   color: darkRed;
   font-size: 4vw;
+  float: left;
 }
 
 .Curitiba-text-div {
-  width: 50vw;
-  height: 10vw;
+  width: 70%;
+  height: 100%;
   float: left;
 }
 
 .Curitiba-text {
   position: relative;
-  top: 2.6vw;
+  top: 10%;
   font-family: 'Raleway', sans-serif;
   text-align: justify;
+  font-size: 1.2vw;
   float: left;
-  font-size: 0.9vw;
 }
 
 .Slide-div {
   width: 100%;
+  height: 70%;
+  padding-top: 2%;
 }
 
 .Slider {
   margin-left: auto;
   margin-right: auto;
-  transform: scale(1.6);
+  transform: scale(1.4);
 }
 
 .BaseSlide {
-  width: 90%;
-  padding: 5%;
+  width: 100%;
+  height: 100%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.Slide-year-div {
+  width: 100%;
+  height: 50%;
+  position: relative;
 }
 
 .Slide-year {
-  font-size: 200%;
+  width: 100%;
+  font-family: 'Nunito', sans-serif;
+  font-size: 225%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 
-.Main-text {
-  font-size: 100%;
+.Frame-navigator-div {
+  width: 100%;
+  height: 50%;
+}
+
+.Navigator-arrow {
+  width: 10%;
+  height: auto;
+  cursor: pointer;
+}
+
+.Navigator-arrow-unclickable {
+  width: 10%;
+  height: auto;
+  opacity: 0.3;
+}
+
+.Frame-number {
+  vertical-align: top;
+  padding-top: 2%;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 150%;
+}
+
+.Map-class {
+  height: 100%;
+  width: auto;
+}
+
+.Blurb-title {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  color: grey;
+  font-size: 200%;
+  text-align: left;
+}
+
+.Blurb-text {
+  font-family: 'Raleway', sans-serif;
+  text-align: justify;
+  color: grey;
+  font-size: 120%;
+  padding-right: 10%;
+}
+
+.Left-div {
+  float: left;
+  height: 100%;
+  width: 15%;
+}
+
+.Center-div {
+  float: left;
+  height: 100%;
+  width: 55%;
+}
+
+.Right-div {
+  float: left;
+  height: 100%;
+  width: 30%;
 }

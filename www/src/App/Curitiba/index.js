@@ -3,7 +3,6 @@ import ProjectHeader from '../data/project-header.js'
 import '../data/commons.css';
 import '../data/animate.css';
 import './index.css';
-import InViewMonitor from 'react-inview-monitor';
 import Slider, { Range } from 'rc-slider';
 import 'rc-slider/assets/index.css';
 import { Slides1975,
@@ -47,36 +46,14 @@ class Curitiba extends Component {
     return (
       <div className="Curitiba">
         <ProjectHeader />
-        <InViewMonitor
-          classNameNotInView='vis-hidden'
-          classNameInView='animated fadeInUp'
-          childPropsInView={{animate: true}}
-        >
-          <div className='Title-div'>
+        <div className='Intro-div'>
+          <div className='Curitiba-title-div'>
             <span className='Curitiba-title'>Curitiba</span>
           </div>
-        </InViewMonitor>
-        <InViewMonitor
-          classNameNotInView='vis-hidden'
-          classNameInView='animated fadeInUp'
-          childPropsInView={{animate: true}}
-        >
           <div className='Curitiba-text-div'>
             <span className='Curitiba-text'>Famous as one of the world’s most sustainable and equitable cities, Curitiba possesses a mythology of successful, equitable transportation planning. But outside of Curitiba’s famously well-planned urban infrastructure, vulnerability exists on the fringes of the city’s formal institutions and processes, in the domain of the informal, improvised, and impoverished. What happens between and outside the Curitiba’s renowned corridors of concentrated transit, resources, and institutional attention on a series of arteries extending from its urban core?</span>
           </div>
-        </InViewMonitor>
-
-        <div className='Slide-div'>
-          <SlideDeckController year={this.state.year}/>
         </div>
-
-        <InViewMonitor
-          classNameNotInView='vis-hidden'
-          classNameInView='animated fadeInUp'
-          childPropsInView={{animate: true}}
-          h
-
-        >
         <Slider
           min={1975}
           max={2014}
@@ -90,8 +67,10 @@ class Curitiba extends Component {
           style={{width: '25%'}}
           onChange={this.changeYear}
           className='Slider'
-          />
-        </InViewMonitor>
+        />
+        <div className='Slide-div'>
+          <SlideDeckController year={this.state.year}/>
+        </div>
       </div>
     )
   }

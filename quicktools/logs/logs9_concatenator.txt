@@ -1,0 +1,727 @@
+Skipping job 4377 (already done)
+Skipping job 4780 (already done)
+Skipping job 5927 (already done)
+Skipping job 5933 (already done)
+Skipping job 2590 (already done)
+Skipping job 4130 (already done)
+Skipping job 5930 (already done)
+Skipping job 5939 (already done)
+Skipping job 4094 (already done)
+Skipping job 6621 (already done)
+Skipping job 2601 (already done)
+Skipping job 5987 (already done)
+Skipping job 4371 (already done)
+Skipping job 4381 (already done)
+Skipping job 5984 (already done)
+Skipping job 4379 (already done)
+Skipping job 5944 (already done)
+Skipping job 5935 (already done)
+Skipping job 5989 (already done)
+Skipping job 5920 (already done)
+Skipping job 5921 (already done)
+Skipping job 2606 (already done)
+Skipping job 7720 (already done)
+Skipping job 4784 (already done)
+Skipping job 6341 (already done)
+Skipping job 4091 (already done)
+Skipping job 4336 (already done)
+Skipping job 5925 (already done)
+Skipping job 4072 (already done)
+Skipping job 6344 (already done)
+Skipping job 4328 (already done)
+Skipping job 4372 (already done)
+Skipping job 2592 (already done)
+Skipping job 4329 (already done)
+Skipping job 6620 (already done)
+Skipping job 4330 (already done)
+Skipping job 4380 (already done)
+Skipping job 6346 (already done)
+Skipping job 4369 (already done)
+Skipping job 5936 (already done)
+Skipping job 4333 (already done)
+Skipping job 4089 (already done)
+Skipping job 5976 (already done)
+Skipping job 4073 (already done)
+Skipping job 4335 (already done)
+Skipping job 6347 (already done)
+Skipping job 2586 (already done)
+Skipping job 2609 (already done)
+Skipping job 5983 (already done)
+Skipping job 4782 (already done)
+Skipping job 4781 (already done)
+Skipping job 5931 (already done)
+Skipping job 2608 (already done)
+
+
+STARTING JOB 54: DOC ID = 5985
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_front0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_front0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_front0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_front0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_front0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0009.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0010.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0011.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+No url found. Breaking...
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0012.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0013.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0014.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0015.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0016.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0017.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0018.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0019.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0020.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0021.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0022.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0023.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0024.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0025.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0026.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0027.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0028.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0029.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0030.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0031.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0032.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0033.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0034.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0035.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0036.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0037.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0038.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0039.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0040.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5j378_1982&image=ht177p5j378_1982_body0041.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+Generating pdf...
+
+
+STARTING JOB 55: DOC ID = 5923
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_front0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_front0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0009.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0010.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0011.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0012.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0013.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0014.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+No url found. Breaking...
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0015.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0016.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0017.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0018.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0019.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0020.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0021.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0022.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0023.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0024.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0025.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0026.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0027.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0028.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0029.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0030.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0031.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0032.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0033.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0034.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0035.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0036.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0037.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0038.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0039.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0040.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0041.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0042.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0043.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0044.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0045.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0046.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0047.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0048.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0049.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0050.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0051.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0052.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0053.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0054.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0055.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0056.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0057.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0058.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0059.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0060.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0061.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0062.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0063.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0064.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0065.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0066.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0067.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0068.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0069.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0070.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0071.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0072.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0073.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0074.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0075.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0076.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0077.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0078.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0079.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0080.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0081.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0082.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0083.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0084.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0085.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0086.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0087.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0088.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0089.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0090.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0091.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0092.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0093.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0094.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0095.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0096.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0097.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0098.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0099.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0100.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0101.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0102.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0103.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0104.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0105.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0106.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0107.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0108.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0109.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0110.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0111.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0112.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht168p43a45&image=ht168p43a45_body0113.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+Generating pdf...
+Skipping job 4783 (already done)
+Skipping job 4093 (already done)
+Skipping job 2591 (already done)
+Skipping job 2720 (already done)
+Skipping job 4373 (already done)
+Skipping job 4374 (already done)
+Skipping job 4375 (already done)
+Skipping job 4376 (already done)
+Skipping job 6340 (already done)
+
+
+STARTING JOB 65: DOC ID = 5926
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_front0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_front0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_front0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_front0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_front0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_front0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_front0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_front0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_front0009.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_front0010.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_front0011.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+No url found. Breaking...
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0009.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0010.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0011.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0012.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0013.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0014.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0015.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0016.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0017.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0018.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0019.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0020.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0021.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127fp4a265_1929&image=na9127fp4a265_1929_body0022.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+Generating pdf...
+Skipping job 5932 (already done)
+Skipping job 4074 (already done)
+Skipping job 5934 (already done)
+Skipping job 4131 (already done)
+
+
+STARTING JOB 70: DOC ID = 4088
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_front0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_front0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_front0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_front0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0009.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0010.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0011.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0012.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+No url found. Breaking...
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0013.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0014.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0015.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0016.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0017.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0018.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0019.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p5354_1963&image=ht177p5p5354_1963_body0020.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+Generating pdf...
+Skipping job 5986 (already done)
+Skipping job 6147 (already done)
+Skipping job 4327 (already done)
+
+
+STARTING JOB 74: DOC ID = 6301
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_front0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_front0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_front0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_front0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_front0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_front0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_front0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_front0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0009.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0010.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0011.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0012.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0013.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0014.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0015.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0016.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0017.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0018.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0019.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0020.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0021.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0022.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0023.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0024.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0025.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0026.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0027.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0028.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0029.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0030.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0031.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0032.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0033.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0034.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0035.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0036.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0037.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0038.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0039.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0040.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+No url found. Breaking...
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0041.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0042.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0043.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0044.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0045.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0046.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0047.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0048.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0049.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0050.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0051.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0052.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0053.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0054.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0055.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0056.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0057.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0059.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0060.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0061.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0062.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0063.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0064.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0065.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0066.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0067.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0068.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0069.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0070.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0071.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0072.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0073.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0074.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0075.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0076.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0077.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0078.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0079.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0080.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0081.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0082.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0083.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0084.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0085.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0086.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0087.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0088.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0089.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0090.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0091.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0092.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0093.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0094.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0095.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0096.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0097.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0098.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0099.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0100.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0101.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0102.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0103.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0104.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0105.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0106.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0107.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0108.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0109.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0110.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0111.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0112.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0113.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0114.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0115.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0116.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0117.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0118.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0119.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0120.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0121.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0122.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0123.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0124.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0125.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0126.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0127.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0128.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0129.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0130.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0131.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0132.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0133.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0134.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0135.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0136.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0137.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0138.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0139.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0140.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0141.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0142.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0143.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0144.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0145.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0146.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0147.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0148.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0149.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0150.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=qh76_5_p4p45_1979&image=qh76_5_p4p45_1979_body0151.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+Generating pdf...
+Skipping job 5937 (already done)
+
+
+STARTING JOB 76: DOC ID = 5922
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_front0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_front0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_front0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_front0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_body0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_body0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_body0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_body0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_body0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_body0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_body0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_body0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_body0009.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_body0010.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_body0011.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_body0012.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+No url found. Breaking...
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p52a439&image=na9127p52a439_body0013.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+Generating pdf...
+
+
+STARTING JOB 77: DOC ID = 5928
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_front0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_front0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_front0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_front0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_front0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_front0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_front0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_front0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_front0009.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+No url found. Breaking...
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0009.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0010.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0011.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0012.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0013.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0014.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0015.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0016.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0017.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0018.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0019.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0020.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p47p44_1963&image=ht177p47p44_1963_body0021.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+Generating pdf...
+Skipping job 2614 (already done)
+
+
+STARTING JOB 79: DOC ID = 5929
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_front0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_front0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_front0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_front0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_front0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_front0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_front0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_front0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+No url found. Breaking...
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0009.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0010.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0011.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0012.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0013.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0014.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0015.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0016.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0017.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0018.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0019.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0020.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0021.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0022.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0023.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0024.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0025.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0026.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0027.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4s6&image=na9127p4s6_body0028.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+Generating pdf...
+Skipping job 4331 (already done)
+Skipping job 4332 (already done)
+Skipping job 4378 (already done)
+
+
+STARTING JOB 83: DOC ID = 5938
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_front0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_front0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_front0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_front0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_front0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0009.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0010.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0011.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+No url found. Breaking...
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0012.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0013.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0014.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0015.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0016.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0017.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0018.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9100p494p435_1966&image=na9100p494p435_1966_body0019.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+Generating pdf...
+Skipping job 4785 (already done)
+
+
+STARTING JOB 85: DOC ID = 4283
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_front0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_front0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_front0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_front0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0009.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0010.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0011.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0012.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+No url found. Breaking...
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0013.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0014.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0015.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0016.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0017.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0018.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0019.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0020.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0021.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_body0022.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=na9127p4p4585_1961&image=na9127p4p4585_1961_back0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+Generating pdf...
+
+
+STARTING JOB 86: DOC ID = 4368
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0004.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0005.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0006.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0007.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0008.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0009.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0010.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0011.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0012.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0013.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0014.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0015.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0016.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0017.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0018.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0019.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0020.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0021.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0022.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0023.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0024.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0025.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0026.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0027.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0028.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0029.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+No url found. Breaking...
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0030.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0031.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0032.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0033.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0034.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0035.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0036.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0037.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0038.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0039.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0040.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0041.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0042.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0043.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0044.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0045.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0046.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0047.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0048.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0049.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0050.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0051.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0052.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0053.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0054.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0055.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0056.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0057.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0058.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0059.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0060.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0061.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0062.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0063.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0064.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0065.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0066.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0067.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0068.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0069.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0070.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0071.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0072.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0073.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0074.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0075.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0076.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0077.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0078.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0079.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0080.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_body0081.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_back0001.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_back0002.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg2.pl?coll=printedbooks&subcoll=ht177p5p536_1964&image=ht177p5p536_1964_back0003.sid&level=0&rotated=0&x=2312&y=1832&width=4600&height=3700
+Generating pdf...
+Skipping job 5945 (already done)
+Skipping job 2741 (already done)
+Skipping job 4334 (already done)
